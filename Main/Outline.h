@@ -1,0 +1,1 @@
+//// Outline.h: Header-File für Outline.c//#pragma onceVOID	outlineadjust(VOID);OSErr	OpenOutlineWindows(void);void	outlinedraw(void);void	orgupdate(void);

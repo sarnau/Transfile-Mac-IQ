@@ -1,0 +1,1 @@
+#include <AppleEvents.h>struct AEEventStruct{	AEEventClass			theEventClass;	AEEventID					theEventID;	AEEventHandlerUPP	theHandler;};typedef struct AEEventStruct AEEventStruct;#define kHighLevelEvent		23#define	kOSEvent			app4EvtVOID	InitAppleEvents(VOID);

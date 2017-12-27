@@ -1,0 +1,1 @@
+#define dSuchen		141#define dErsetzen	142#define dStatistik	146enum {	mmSuchen=1,mmErsetzen,mmDubletten,mmDummy,mmStatistik};VOID	SonstigesMenu(UWORD entry);VOID	Suchen(WORD);VOID	Statistik(VOID);VOID	Dubletten(VOID);

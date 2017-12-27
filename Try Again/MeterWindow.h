@@ -1,0 +1,1 @@
+/*** *	MeterWindow ***/#pragma oncepascal void		mWindowDraw(DialogPtr d,short item);void			mWindowUpdate(long curI);extern long			mWmax;extern long			mWakt;extern WindowPtr	mWPtr;

@@ -1,0 +1,1 @@
+//// Business.h: Header-File für Business.c//#pragma once#include "IQStruct.h"OSErr	OpenBusinessWindows(void);

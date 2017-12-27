@@ -1,0 +1,1 @@
+//// DoList.h: Header-File für DoList.c//#pragma once#include "IQStruct.h"OSErr	OpenDoListWindows(void);

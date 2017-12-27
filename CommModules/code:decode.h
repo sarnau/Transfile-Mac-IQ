@@ -1,0 +1,1 @@
+#pragma onceextern	void	decode_data(void *start,long count,unsigned char *password);extern	void	code_data(void *start,long count,unsigned char *password);

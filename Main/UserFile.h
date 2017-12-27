@@ -1,0 +1,1 @@
+//// Userfile.h: Header-File für Usefile.c//#pragma once#include "IQStruct.h"#define TITLE_LENGTH			10#define FREE_STR_LENGTH			12#define NUMBER_OF_FREE_FIELDS	16OSErr	OpenUserfileWindows(void);void	CreateUserFileDefaults(OrganizerH o);

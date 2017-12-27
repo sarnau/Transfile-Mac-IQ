@@ -1,0 +1,1 @@
+////	MySound.h//#pragma oncetypedef enum{about,positive,negative,shit}mood;void	OwnBeep(mood whichType);

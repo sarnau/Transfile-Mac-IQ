@@ -1,0 +1,1 @@
+#pragma once	// include this header				// only once per source filevoid	MNew(void);void	MOpen(void);void	MClose(void);void	MSave(void);void	MSaveAs(void);void	MRevert(void);void	MDuplicate(void);void	MPageSetup(void);void	MPrint(void);void	MQuit(void);

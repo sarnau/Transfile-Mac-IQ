@@ -1,0 +1,1 @@
+// Float.h - Prototypen für Floats#include "xRsrcDefines.h"#include "Windows.h"extern WindPtr		gTheFloatWind;VOID	ShowFloat(WindPtr w);VOID	OpenFloatIfNecessary(WindPtr w);VOID	UpdateFloat(WindPtr w);VOID	TestHideFloat(VOID);VOID	Floatclose(VOID);VOID	Floatklick(LONG item);VOID	SetFloatDisp(flType newType);

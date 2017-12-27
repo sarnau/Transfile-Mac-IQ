@@ -1,0 +1,1 @@
+/*** *	Install.h ***/#pragma once	// include this header				// only once per source file#include "Document.h"extern	Boolean	gSaveSettings;	/* true = Einstellungen autom. sichern */extern	FSSpec	gSavePref;		/* "Geos Preferences" */void	LoadInstall(void);void	SaveInstall(void);void	MakeDefaultDoc(DocHandle d,WORD id);

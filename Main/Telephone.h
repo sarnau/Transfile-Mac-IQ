@@ -1,0 +1,1 @@
+//// Telephone.h: Header-File für Telephone.c//#pragma once#include "IQStruct.h"OSErr	OpenTelWindows(void);		/* Window für Terminplaner öffnen */void	telupdate(void);

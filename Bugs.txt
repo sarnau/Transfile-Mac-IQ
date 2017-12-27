@@ -1,0 +1,1 @@
+Fehler, Verbesserungen, etc.:•	Import/Export von: Termine, Outliner, etc.•	Balloon-Help: Windows-Menü, Kalender-Window, Float
